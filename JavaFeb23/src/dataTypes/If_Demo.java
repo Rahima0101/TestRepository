@@ -15,10 +15,11 @@ public class If_Demo {
 		 * 
 		 * 
 		 */
+		// this is an example of control statement 
 		int age = 16;
 		System.out.println("Testing if condition starts: ");
 		
-		if (false)
+		if (age> 18)
 		{	
 			System.out.println("You are eligible to marry !! ");
 
