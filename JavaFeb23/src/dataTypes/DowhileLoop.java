@@ -4,7 +4,7 @@ public class DowhileLoop {
 
 	public static void main(String[] args) {
 		
-		String place = "Brooklyn";
+		String place = "The Bronx";
 		int start = 1; 
 		
 		do
